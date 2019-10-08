@@ -1,3 +1,3 @@
 # Lost Map  
-https://nus.kattis.com/problems/lostmap  
+https://open.kattis.com/problems/lostmap  
 Submission - LostMap.java

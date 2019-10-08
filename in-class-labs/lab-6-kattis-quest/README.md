@@ -1,3 +1,3 @@
 # Kattis's Quest  
-https://nus.kattis.com/problems/kattissquest  
+https://open.kattis.com/problems/kattissquest  
 Submission - QuestStart.java

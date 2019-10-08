@@ -1,3 +1,3 @@
 # Conformity  
-https://nus.kattis.com/problems/conformity  
+https://open.kattis.com/problems/conformity  
 Submission - Conformity.java
