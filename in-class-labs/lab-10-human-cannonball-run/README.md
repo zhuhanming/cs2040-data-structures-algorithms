@@ -1,3 +1,3 @@
 # Human Cannonball Run  
-https://nus.kattis.com/problems/humancannonball  
+https://open.kattis.com/problems/humancannonball  
 Submission - Cannonball.java
